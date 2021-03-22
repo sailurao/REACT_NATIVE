@@ -1,0 +1,3 @@
+//to use EXPO CLI
+>npm install expo-cli --global
+>expo-cli init myproject  //creates RactNative project
