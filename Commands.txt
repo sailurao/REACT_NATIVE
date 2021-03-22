@@ -1,3 +1,5 @@
+Reference: https://github.com/iamshaunjp/react-native-tutorial/blob/lesson-5/my-project/App.js
+
 //to use EXPO CLI
 >npm install expo-cli --global
 >expo-cli init myproject  //creates RactNative project
