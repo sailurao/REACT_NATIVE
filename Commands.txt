@@ -3,3 +3,8 @@ Reference: https://github.com/iamshaunjp/react-native-tutorial/blob/lesson-5/my-
 //to use EXPO CLI
 >npm install expo-cli --global
 >expo-cli init myproject  //creates RactNative project
+
+
+//FOR ROUTING we need below packages
+npm install react-navigation
+npm install react-navigation-stack
