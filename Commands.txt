@@ -5,14 +5,6 @@ Reference: https://github.com/iamshaunjp/react-native-tutorial/blob/lesson-5/my-
 >expo-cli init myproject  //creates RactNative project
 
 
-//FOR ROUTING we need below packages
-npm install react-navigation
-
-//as per https://reactnavigation.org/docs/getting-started
-expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
-
-
-npm install react-navigation-stack
-
-expo install expo-app-loading
+//working Navigation example
+https://www.positronx.io/react-native-navigation-example-tutorial/
 
