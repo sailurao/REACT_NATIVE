@@ -8,3 +8,6 @@ Reference: https://github.com/iamshaunjp/react-native-tutorial/blob/lesson-5/my-
 //working Navigation example
 https://www.positronx.io/react-native-navigation-example-tutorial/
 
+//working stack Navigation BOTTOM/TOP TABS,DRAWER, example
+https://www.youtube.com/watch?v=28Xr22XDcDg
+https://github.com/cheetahcoding/React-Native-Tutorials/tree/react_navigation_v5
